@@ -66,6 +66,7 @@ I created this repository to:
 
 ### 🚀 Mini Projects
 - Calculator
+- Hospital dashboard
 - Number Guessing Game
 - Password Generator
 - Student Management System
