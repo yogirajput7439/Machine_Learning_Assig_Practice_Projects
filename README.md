@@ -70,6 +70,7 @@ I created this repository to:
 - Number Guessing Game
 - Password Generator
 - Student Management System
+- also used flask in the projects
 - More Coming Soon...
 
 ---
